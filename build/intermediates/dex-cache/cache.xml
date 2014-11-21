@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="I:\Users\linwei\workspace\ZzuNews\app\build\intermediates\pre-dexed\debug\dutlib-c6f9f456bf6281dca9c588b78235be68ac14893b.jar"
+        jar="I:\Users\linwei\workspace\ZzuNews\app\libs\dutlib.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d5b08c443ff3f466e585c20c42aed448c894b798"/>
+    <item
+        dex="I:\Users\linwei\workspace\ZzuNews\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-e055501e8833f5b5c50a83bf0dec7c5e533354d7.jar"
+        jar="D:\Android\adt-bundle-windows-x86\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="I:\Users\linwei\workspace\ZzuNews\app\build\intermediates\pre-dexed\debug\classes-d3ecb100f0cb2db0b47f340051cf591d04c168fc.jar"
+        jar="I:\Users\linwei\workspace\ZzuNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="I:\Users\linwei\workspace\ZzuNews\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e7717b2e04633ca42575d3fb1542206a9a601895.jar"
+        jar="I:\Users\linwei\workspace\ZzuNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+
+</pre-dex-items>

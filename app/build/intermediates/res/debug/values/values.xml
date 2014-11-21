@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/I:/Users/linwei/workspace/ZzuNews/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="action_back">#336666</color>
+    <color name="action_menu_pressed">#333333</color>
+    <color name="bg">#f1e3e4</color>
+    <color name="black">#000000</color>
+    <color name="body1">#FFFFFF</color>
+    <color name="body2">#F9F9F9</color>
+    <color name="center_menu_back">#292929</color>
+    <color name="divider1">#DDDDDD</color>
+    <color name="divider2">#EEEEEE</color>
+    <color name="divider3">#FFFFFF</color>
+    <color name="global_gray">#dddddd</color>
+    <color name="gold">#000000</color>
+    <color name="gray">#FFFFEE</color>
+    <color name="guide_back">#FFFFFF</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="loading">#99000000</color>
+    <color name="menu1">#EEEEEE</color>
+    <color name="menu2">#BBBBBB</color>
+    <color name="menu_devider_color">#ff282a2b</color>
+    <color name="menu_pressed_color">@color/menu_devider_color</color>
+    <color name="none">#00000000</color>
+    <color name="pull_refresh_textview">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="semitransparent">#4d000000</color>
+    <color name="text">#333333</color>
+    <color name="transparent">#00000000</color>
+    <color name="wechat_green">#ff45c01a</color>
+    <color name="white">#FFFFFF</color>
+    <color name="widgeblue">#333333</color>
+    <!-- From: file:/I:/Users/linwei/workspace/ZzuNews/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <!-- From: file:/I:/Users/linwei/workspace/ZzuNews/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">郑大新闻通</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <!-- From: file:/I:/Users/linwei/workspace/ZzuNews/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
